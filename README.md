@@ -1,17 +1,17 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Nguyen Luc 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer, open-source contributor, and lifelong learner. Here are some details about me:
+Welcome to my GitHub profile! I'm a passionate software developer and lifelong learner. Here are some details about me:
 
 ## 👨‍💻 About Me:
-- 🔭 I’m currently working on **[Your Current Project or Learning Topic]**.
-- 🌱 I’m learning **[Technologies You’re Learning]**.
-- 💬 Ask me about **[Things You’re Passionate About]**.
-- 📫 How to reach me: **[Email or Social Media]**.
+- 🔭 I have previously worked at **FPT Software** and now I'm looking for new job opportunities.
+- 🌱 I’m learning **Next.js** and diving deeper into the backend with **Node.js**.
+- 💬 Ask me about **music games, travel, and fitness**.
+- 📫 How to reach me: [lucnguyen2407@gmail.com](mailto:lucnguyen2407@gmail.com).
 
 ## 🚀 Technologies I Love:
 - **Languages**: Python, JavaScript, TypeScript, Java, C++
 - **Web**: React, Next.js, Node.js
-- **Tools**: Docker, Git, GitHub Actions, CI/CD
+- **Tools**:  Git, GitHub Actions, CI/CD
 - **Databases**: MongoDB, PostgreSQL, MySQL
 
 ## 🏆 GitHub Stats:
@@ -22,6 +22,5 @@ Welcome to my GitHub profile! I'm a passionate software developer, open-source c
 - [Project 2](https://github.com/yourusername/project2): Short description of the project.
 
 ## 📫 How to Reach Me:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/nguyen-luc-98bb391a1/)
+- [Email](mailto:lucnguyen2407@gmail.com)
