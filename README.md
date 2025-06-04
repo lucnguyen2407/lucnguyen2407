@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a passionate software developer and lifelong l
 - **Databases**: MongoDB, PostgreSQL, MySQL
 
 ## 🌱 My Latest Projects:
-- [Project 1](https://github.com/lucnguyen2407/harru): Personal website build with tailwind css, NextJS ✨.
-- [Project 2](https://github.com/yourusername/project2): An advanced todo application built with Next.js. ✍️.
+- [Project 1](https://github.com/lucnguyen2407/harru): Personal website build with tailwind css, Next.js ✨.
+- [Project 2](https://github.com/yourusername/project2): An advanced todo application built with Next.js ✍️.
 
 ## 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/nguyen-luc-98bb391a1/)
