@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate software developer and lifelong learner. Here are some details about me:
 
 ## 👨‍💻 About Me:
-- 🔭 I have previously worked at **FPT Software** for 3 years, and now I'm looking for new job opportunities.
+- 🔭 I have previously worked at **FPT Software** for 3 years as a Front-end Developer using ReactJS, and now I'm looking for new job opportunities.
 - 🌱 I’m learning **Next.js** and diving deeper into the backend with **Node.js**.
 - 💬 Ask me about **music games, travel, and fitness**.
 - 📫 How to reach me: [lucnguyen2407@gmail.com](mailto:lucnguyen2407@gmail.com).
