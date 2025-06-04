@@ -14,9 +14,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and lifelong l
 - **Tools**:  Git, GitHub Actions, CI/CD
 - **Databases**: MongoDB, PostgreSQL, MySQL
 
-## 🏆 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
-
 ## 🌱 My Latest Projects:
 - [Project 1](https://github.com/lucnguyen2407/harru): Personal website build with tailwind css, NextJS ✨.
 - [Project 2](https://github.com/yourusername/project2): An advanced todo application built with Next.js. ✍️.
